@@ -2,6 +2,14 @@
 using System;
 using System.Windows.Forms;
 
+/*
+    If you would like to properly use this application as a starting point for
+    your own work, please reference a scripthookdotnet dll file.
+    
+    You can obtain the newest build from here: 
+    https://github.com/crosire/scripthookvdotnet/releases 
+*/
+
 public class BaseScript : Script {
 
     public BaseScript() {

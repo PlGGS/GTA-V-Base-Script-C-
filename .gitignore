@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/GTA V Base Script/ScriptHookVDotNet.dll
+/GTA V Base Script/ScriptHookVDotNet.dll
+*.dll
